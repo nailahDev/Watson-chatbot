@@ -96,7 +96,7 @@ var conversation = watson.conversation({
 
 ```css
      var workspace = "<workspace_id>"; //replace with the workspace_id from service credential
-});
+
 ```
 
 
@@ -104,7 +104,6 @@ var conversation = watson.conversation({
 write the command
 
 ```css
-cd C:\Users\...;
+cd C:\Users\Desktop\...;
 
-});
 ```
