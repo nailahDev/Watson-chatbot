@@ -9,7 +9,7 @@ IBM Watson® Conversation is a question-and-answer system that provides a dialog
 
 **Requirements:**
 
-IBM Cloud account http://www.bluemix.net
+IBM Cloud account https://ibm.biz/BdZYZx
 
 **1-  Create an instance of Watson Conversation on IBM Cloud**
 Make sure that you are logged in to your IBM Cloud account. Click **Catalog** and then click **Services > Watson > Conversation> choose a name> hit Create**
